@@ -85,4 +85,5 @@ Popover.STATE = {
  */
 Popover.Align = TooltipBase.Align;
 
+export { Popover };
 export default Popover;
